@@ -1,4 +1,4 @@
-# AI Weather Forecast Visualization
+# AI Weather Forecast Simulation & Visualization
 
 ![anim](assets/q.gif)
 
@@ -20,9 +20,9 @@ This repository provides tools to simulate and visualize forecasts from AI-based
 
 2. **Install Dependencies & Run Simulations**
 
-Go to the `gencast` and `panguweather` folders to install required packges and run the simulations.
+Go to the `gencast` and `panguweather` folders to install required packges, run the simulations and produce the fields maps.
 
-3. **Produce maps and run the React app**
+3. **Install and run the React app**
 
 ```bash
 cd viz-weather-forecast

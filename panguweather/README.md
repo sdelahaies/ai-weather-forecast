@@ -25,4 +25,5 @@ ai-models --lead-time 24 --input cds --date 20250422 --time 0000 --path outputs/
 
 ```bash
 uv pip install matplotlib cartopy
+python produce_maps.py
 ```
